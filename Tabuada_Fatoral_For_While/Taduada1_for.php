@@ -1,7 +1,7 @@
-<meta charset="UTF-8">
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
+    <meta charset="UTF-8">
     <title>Tabuada</title>
 </head>
 <body>
